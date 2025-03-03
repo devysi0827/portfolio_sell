@@ -1,0 +1,51 @@
+{
+    "categories": [
+      {
+        "name": "프론트엔드",
+        "skills": [
+          { "name": "JavaScript", "bgColor": "#f1e05a", "textColor": "#333333" },
+          { "name": "TypeScript", "bgColor": "#3178c6", "textColor": "#ffffff" },
+          { "name": "React", "bgColor": "#61dafb", "textColor": "#333333" },
+          { "name": "Next.js", "bgColor": "#000000", "textColor": "#ffffff" },
+          { "name": "Redux", "bgColor": "#764abc", "textColor": "#ffffff" },
+          { "name": "Styled-Components", "bgColor": "#db7093", "textColor": "#ffffff" },
+          { "name": "HTML/CSS", "bgColor": "#e34c26", "textColor": "#ffffff" },
+          { "name": "Tailwind CSS", "bgColor": "#38b2ac", "textColor": "#ffffff" }
+        ]
+      },
+      {
+        "name": "백엔드",
+        "skills": [
+          { "name": "Node.js", "bgColor": "#339933", "textColor": "#ffffff" },
+          { "name": "Express", "bgColor": "#000000", "textColor": "#ffffff" },
+          { "name": "RESTful API", "bgColor": "#0096c7", "textColor": "#ffffff" },
+          { "name": "GraphQL", "bgColor": "#e10098", "textColor": "#ffffff" }
+        ]
+      },
+      {
+        "name": "데이터베이스",
+        "skills": [
+          { "name": "MongoDB", "bgColor": "#47a248", "textColor": "#ffffff" },
+          { "name": "MySQL", "bgColor": "#4479a1", "textColor": "#ffffff" },
+          { "name": "Firebase", "bgColor": "#ffca28", "textColor": "#333333" }
+        ]
+      },
+      {
+        "name": "데브옵스",
+        "skills": [
+          { "name": "Git/GitHub", "bgColor": "#f05032", "textColor": "#ffffff" },
+          { "name": "Docker", "bgColor": "#2496ed", "textColor": "#ffffff" },
+          { "name": "AWS", "bgColor": "#ff9900", "textColor": "#000000" },
+          { "name": "CI/CD", "bgColor": "#6e5494", "textColor": "#ffffff" }
+        ]
+      },
+      {
+        "name": "디자인/UI",
+        "skills": [
+          { "name": "Figma", "bgColor": "#f24e1e", "textColor": "#ffffff" },
+          { "name": "Adobe XD", "bgColor": "#ff61f6", "textColor": "#ffffff" },
+          { "name": "Responsive Design", "bgColor": "#7b61ff", "textColor": "#ffffff" }
+        ]
+      }
+    ]
+  }

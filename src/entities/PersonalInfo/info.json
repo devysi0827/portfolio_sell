@@ -1,0 +1,9 @@
+{
+    "name": "홍길동",
+    "profileImage": "/api/placeholder/400/400",
+    "phone": "010-1234-5678",
+    "birthdate": "1990.01.01",
+    "email": "example@email.com",
+    "github": "https://github.com/username",
+    "blog": "https://blog.example.com"
+  }
